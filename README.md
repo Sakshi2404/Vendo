@@ -1,4 +1,4 @@
-# `clayma-store`
+# `Vendo`
 
 An ecommerce UI with React, no back-end integration
 
